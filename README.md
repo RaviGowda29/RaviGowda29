@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigowda29&label=Profile%20views&color=0e75b6&style=flat" alt="ravigowda29" /> </p>
 
-- 🔭 I’m currently working on **I am currently engaged in projects involving artificial intelligence and machine learning.**
+ **I am currently engaged in projects involving artificial intelligence and machine learning.**
 
-- 🌱 I’m currently learning **Artificial intelligence and machine learning**
+  I’m currently learning **Artificial intelligence and machine learning**
 
 # Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravijgowda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ravi.gowda_/)
