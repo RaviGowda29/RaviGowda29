@@ -2,16 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigowda29&label=Profile%20views&color=0e75b6&style=flat" alt="ravigowda29" /> </p>
 
- **I am currently engaged in projects involving artificial intelligence and machine learning.**
+ **I am currently involved in projects focused on artificial intelligence and machine learning.**
 
-  I’m currently learning **Artificial intelligence and machine learning**
+ **I’m currently learning Artificial intelligence and Machine learning.**
 
 # Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravijgowda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ravi.gowda_/)
 
 # Tech Aresnal:
 
-![Web Development](https://img.shields.io/badge/Web%20Development-%23F7DF1E.svg?style=for-the-badge&logo=html5&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![API Development](https://img.shields.io/badge/API%20Development-%23FF6F00.svg?style=for-the-badge&logo=postman&logoColor=white) ![Database](https://img.shields.io/badge/Database-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Web Development](https://img.shields.io/badge/Web%20Development-%23F7DF1E.svg?style=for-the-badge&logo=html5&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![API Development](https://img.shields.io/badge/API%20Development-%23FF6F00.svg?style=for-the-badge&logo=postman&logoColor=white) ![Database](https://img.shields.io/badge/Database-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 # GitHub Stats :
