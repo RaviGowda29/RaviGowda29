@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigowda29&label=Profile%20views&color=0e75b6&style=flat" alt="ravigowda29" /> </p>
 
- **I am currently involved in projects focused on artificial intelligence and machine learning.**
+ **I am currently involved in projects focused on Computer Vision.**
 
  **I’m currently learning Artificial intelligence and Machine learning.**
 
